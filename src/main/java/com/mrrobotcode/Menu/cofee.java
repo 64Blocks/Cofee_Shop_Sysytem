@@ -2,7 +2,6 @@ package main.java.com.mrrobotcode.Menu;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
 public class cofee {
     public int id;
     public String name;
