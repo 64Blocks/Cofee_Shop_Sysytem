@@ -14,9 +14,6 @@ public class General_manger extends Run_info {
     {
         Employee_information employee_information = new Employee_information();
         employee_information.Show_Employee();
-
-       /* System.out.println("test");
-        Show_Employee();*/
     }
     public static void Config_manger()
     {
